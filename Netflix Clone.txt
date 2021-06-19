@@ -1,0 +1,85 @@
+const API_KEY = "ca39b88b8ea32be7a47a732f661552a4"
+https://www.youtube.com/watch?v=-cMqr9HpZ-Y
+
+npm install -g firebase-tools
+npm i react-youtube
+npm i movie-trailer
+
+//END POINTS TMDB
+
+
+
+
+
+20:30
+
+NOTES:
+check request.js file later
+Use axios and reasearch terminology of old ways
+Use uppercase for files when create for Component
+npm start is used to start a react
+npx create-react app "files" is used to create a new react porject
+what are the difference between http request and ajax
+export default "function nam()" is used to export file
+what is props js react props meaning properties = you write one component an pass pro"prpertoes"
+port Row from './Row'; this syntax is used to import other files to target file
+How to properly destructure code
+Memorize how to pass props
+review state. state is like a short teerm memory, state is a way to write variables in react 
+react hooks?
+
+useState
+useEffects
+
+useEffect(()={
+    |                ^
+  7 |
+  8 |     },[]); <<this blank array means run once
+  
+  
+Rule of thumb you can only have 1 export defaul per page.
+How to call async inside use Effect? 31:14
+arrow function
+how to use axios calls etc.
+react Use effect millarewar call time
+review .map
+string interpolation js
+install pretteier  https://www.youtube.com/watch?v=Gmz27agvLYg
+object-fit: contain; 
+ overflow-y: hidden;
+   overflow-x: scroll; // 51:45
+   if you age going to do a transform you need to pad your container
+ remove scroll sideway netfilex 52:45 .row__posters::-webkit-scrollbar 
+ review key for   57.37
+ when craete a react app remove all content on app.css and set margin to 0
+ string conact react
+ rfce snippit tricks
+ 
+ 
+ Continue @ 1:17
+ 
+ what do you call ? it there is missing element like a fall back. check if var has value ?? 1hour.
+ optional chaining
+ 
+ px does adjust on react object contain??
+ why they use rem on font and check if px is used on font or only on container,
+ 
+ 
+ <div className="banner--footerBottom"></div> what is bemm for this?? why syntax is this?
+ 
+ Note: When dealing with images You need to use object fit contain to preserve aspect ratio of images
+review position fixed
+
+
+1:44 position fiexed affect display flex and how to fix it so use 100%
+
+1:46 how to fixed display flex padding on avatar right
+
+1:47 opining why he made it fixed positon
+
+Note: Implementation for scroll listener.!!!!!!!!!!
+
+Onclick
+. then review promises 
+
+2:04   const urlParams = new URLSearchParams(new URL(url).search); what does this do?
