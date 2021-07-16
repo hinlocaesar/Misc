@@ -1,0 +1,43 @@
+/*reset*/
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: white;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+  max-width: 800px;
+}
+
+.hero {
+  background-color: #23424a;
+  padding: 5em 0;
+}
+
+.hero__text {
+  width: 50%;
+}
+
+.title {
+  font-size: 2rem;
+  margin-bottom: 1em;
+}
+
+.sub-text {
+  font-size: 1rem;
+  margin-bottom: 2em;
+}
+
+.btn {
+  background-color: #38cfd9;
+  border-radius: 2em;
+  color: black;
+  font-size: 1rem;
+  padding: 0.5em 2em;
+  text-decoration: none;
+}
